@@ -1,2 +1,2 @@
 # Remote-room-temperature-monitoring-system
-This  report presents a simple remote room temperature monitoring system using LM35 temperature sensor  and PIC16F877A microcontroller. 
+This report presents a simple remote room temperature monitoring system using LM35 temperature sensor and PIC16F877A microcontroller. ESP866 microcontroller is also interfaced with PIC16F877A microcontroller. The system measures the temperature using LM35 and the temperature value is displayed on an IOT platform. In this project, MPLAB IDE is used to program the PIC16F877A microcontroller and Arduino IDE is used to program the ESP8266 microcontroller. The result of the project is displayed in Adafruit IO platform.
